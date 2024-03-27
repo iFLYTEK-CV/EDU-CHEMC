@@ -9,6 +9,8 @@ Everyone can access the competition site at: https://crocs-ifly-ustc.github.io/c
 
 The latest news about the competition CROCS on ICDAR2024:
 
-March 13, 2024: In line with an announcement from ICDAR, the competition schedule has been adjusted to allow contestants more time to optimize their algorithms. 
+March 13, 2024: 
+
+In line with an announcement from ICDAR, the competition schedule has been adjusted to allow contestants more time to optimize their algorithms. 
+
 The deadline for Test A has been postponed from March 20 to April 15, and the deadline for Test B has been moved from March 31 to April 25. 
-Please refer to the Planned Schedule for more details.
