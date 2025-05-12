@@ -1,16 +1,36 @@
 # EDU-CHEMC
-This repository is an official data link of paper "Handwritten Chemical Structure Image to Structure-Specific Markup Using Random Conditional Guided Decoder" in ACM MultiMedia 2023. 
+This repository is an official data link of paper "**Handwritten Chemical Structure Image to Structure-Specific Markup Using Random Conditional Guided Decoder**" in ACM MultiMedia 2023. 
 
-We will release a Handwritten Chemical Structure Image dataset named EDU-CHEMC soon, which consists of totally 52,987 handwritten molecular structure images collected in educational scenarios.
+We have officially released a handwritten chemical structure image dataset named **EDU-CHEMC**, which comprises a total of 52,987 images of handwritten molecular structures collected in educational scenarios. The official download link is available at **https://drive.google.com/drive/folders/1s-diCMMvfAspWmD8AbiKBhF_0uzSwy6m**
 
-The EDU-CHEMC database is now available to support the competition on ICDAR2024(ICDAR 2024 Competition on Recognition of Chemical Structures). 
+The EDU-CHEMC database has been instrumental in supporting the **ICDAR 2024 Competition on Recognition of Chemical Structures**.
 
-Everyone can access the competition site at: https://crocs-ifly-ustc.github.io/crocs/index.html. Once the competition concludes, we will open up the database.
+To access the competition site and utilize valuable annotation tools, please visit: **https://crocs-ifly-ustc.github.io/crocs/index.html** .
 
-The latest news about the competition CROCS on ICDAR2024:
+In connection with this, we have extended our methodology, which has been published in the AAAI 2025 conference.
 
-March 13, 2024: 
+## Citation
 
-In line with an announcement from ICDAR, the competition schedule has been adjusted to allow contestants more time to optimize their algorithms. 
+If you use the **EDU-CHEMC** database in your research, please cite the following references:
 
-The deadline for Test A has been postponed from March 20 to April 15, and the deadline for Test B has been moved from March 31 to April 25. 
+```bibtex
+@article{Hu2023,  
+    author    = {Jinshui Hu, Hao Wu, Mingjun Chen, Chenyu Liu, Jiajia Wu, Shi Yin, Baocai Yin, Bing Yin, Cong Liu, Jun Du, Lirong Dai},  
+    title     = {Handwritten chemical structure image to structure-specific markup using random conditional guided decoder},  
+    journal   = {Proceedings of the 31st ACM International Conference on Multimedia},  
+    year      = {2023}
+}  
+
+@article{Chen2024,  
+  author    = {Mingjun Chen, Hao Wu, Qikai Chang, Hanbo Cheng, Jiefeng Ma, Pengfei Hu, Zhenrong Zhang, Chenyu Liu, Changpeng Pi, Jinshui Hu, Baocai Yin, Bing Yin, Cong Liu, Jun Du},  
+  title     = {ICDAR 2024 Competition on Recognition of Chemical Structures},  
+  journal   = {International Conference on Document Analysis and Recognition},  
+  year      = {2024}
+}  
+
+@article{Chang2025,  
+  author    = {Qikai Chang, Mingjun Chen, Changpeng Pi, Pengfei Hu, Zhenrong Zhang, Jiefeng Ma, Jun Du, Baocai Yin, Jinshui Hu},  
+  title     = {RFL: Simplifying Chemical Structure Recognition with Ring-Free Language},  
+  journal   = {Proceedings of the AAAI Conference on Artificial Intelligence},  
+  year      = {2025}
+}  
