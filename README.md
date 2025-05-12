@@ -15,22 +15,22 @@ If you use the **EDU-CHEMC** database in your research, please cite the followin
 
 ```bibtex
 @article{Hu2023,  
-    author    = {Jinshui Hu, Hao Wu, Mingjun Chen, Chenyu Liu, Jiajia Wu, Shi Yin, Baocai Yin, Bing Yin, Cong Liu, Jun Du, Lirong Dai},  
-    title     = {Handwritten chemical structure image to structure-specific markup using random conditional guided decoder},  
-    journal   = {Proceedings of the 31st ACM International Conference on Multimedia},  
-    year      = {2023}
+        author = {Jinshui Hu, Hao Wu, Mingjun Chen, Chenyu Liu, Jiajia Wu, Shi Yin, Baocai Yin, Bing Yin, Cong Liu, Jun Du, Lirong Dai},  
+        title = {Handwritten chemical structure image to structure-specific markup using random conditional guided decoder},  
+        journal = {Proceedings of the 31st ACM International Conference on Multimedia},  
+        year = {2023}
 }  
 
 @article{Chen2024,  
-  author    = {Mingjun Chen, Hao Wu, Qikai Chang, Hanbo Cheng, Jiefeng Ma, Pengfei Hu, Zhenrong Zhang, Chenyu Liu, Changpeng Pi, Jinshui Hu, Baocai Yin, Bing Yin, Cong Liu, Jun Du},  
-  title     = {ICDAR 2024 Competition on Recognition of Chemical Structures},  
-  journal   = {International Conference on Document Analysis and Recognition},  
-  year      = {2024}
+        author  = {Mingjun Chen, Hao Wu, Qikai Chang, Hanbo Cheng, Jiefeng Ma, Pengfei Hu, Zhenrong Zhang, Chenyu Liu, Changpeng Pi, Jinshui Hu, Baocai Yin, Bing Yin, Cong Liu, Jun Du},  
+        title = {ICDAR 2024 Competition on Recognition of Chemical Structures},  
+        journal = {International Conference on Document Analysis and Recognition},  
+        year = {2024}
 }  
 
 @article{Chang2025,  
-  author    = {Qikai Chang, Mingjun Chen, Changpeng Pi, Pengfei Hu, Zhenrong Zhang, Jiefeng Ma, Jun Du, Baocai Yin, Jinshui Hu},  
-  title     = {RFL: Simplifying Chemical Structure Recognition with Ring-Free Language},  
-  journal   = {Proceedings of the AAAI Conference on Artificial Intelligence},  
-  year      = {2025}
+        author  = {Qikai Chang, Mingjun Chen, Changpeng Pi, Pengfei Hu, Zhenrong Zhang, Jiefeng Ma, Jun Du, Baocai Yin, Jinshui Hu},  
+        title  = {RFL: Simplifying Chemical Structure Recognition with Ring-Free Language},  
+        journal = {Proceedings of the AAAI Conference on Artificial Intelligence},  
+        year = {2025}
 }  
